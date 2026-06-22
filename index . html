@@ -371,7 +371,7 @@
       <span class="card-tool">Google Slides</span>
       <h3>Travel Plan Presentation</h3>
       <p>A structured travel itinerary deck covering destination overview, day-by-day schedule, accommodation, and budget summary — formatted for executive review.</p>
-      <a href="YOUR_GOOGLE_SLIDES_LINK_HERE" target="_blank" class="card-link placeholder">
+      <a href=https://docs.google.com/presentation/d/1EnuWs9IQrHPQei1n40okPsQDlSjntZh3DtIqSSJ0DEU/edit?usp=drivesdk target="_blank" class="card-link placeholder">
         Add link to activate
         <svg width="13" height="13" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
@@ -382,7 +382,7 @@
       <span class="card-tool">Google Docs</span>
       <h3>Minutes of Meeting</h3>
       <p>A professionally formatted meeting record including agenda, attendees, discussion points, action items, and owners — ready for distribution and filing.</p>
-      <a href="YOUR_GOOGLE_DOC_LINK_HERE" target="_blank" class="card-link placeholder">
+      <a href=https://docs.google.com/document/d/1dfQ_-J6ulkySLhV18f-dqiILwwfGNunVyNy6lEaFNig/edit?usp=drivesdk target="_blank" class="card-link placeholder">
         Add link to activate
         <svg width="13" height="13" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
@@ -393,7 +393,7 @@
       <span class="card-tool">Google Sheets</span>
       <h3>Project Plan with Conditional Formatting</h3>
       <p>A task tracker with status columns, due dates, owner assignment, and conditional formatting — colour-coded to surface overdue and in-progress items at a glance.</p>
-      <a href="YOUR_GOOGLE_SHEETS_PROJECT_LINK_HERE" target="_blank" class="card-link placeholder">
+      <a href=https://docs.google.com/spreadsheets/d/1L6NbfNUtFZv2G2bXvSEIQeKkx2lU9sGNAFevPObRaC8/edit?usp=drivesdk target="_blank" class="card-link placeholder">
         Add link to activate
         <svg width="13" height="13" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
@@ -404,7 +404,7 @@
       <span class="card-tool">Google Sheets</span>
       <h3>Research Documentation & Sources</h3>
       <p>A structured research log with topic breakdown, key findings, source URLs, credibility ratings, and date accessed — organised for quick reference and citation.</p>
-      <a href="YOUR_GOOGLE_SHEETS_RESEARCH_LINK_HERE" target="_blank" class="card-link placeholder">
+      <a href=https://docs.google.com/spreadsheets/d/12hjgrkuN_XHtmuOy6IzIcb0o9HokdW0bg1VT2usxlQo/edit?usp=drivesdk target="_blank" class="card-link placeholder">
         Add link to activate
         <svg width="13" height="13" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </a>
